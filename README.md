@@ -27,7 +27,7 @@ docker compose up
 This command will build the Docker images and start the containers defined in `docker-compose.yml`.
 
 - The FastAPI server will be available at port `8000`.
-- The Express server will be available at port `3000`.
+- The Express server will be available at port `8001`.
 
 ## API Routes
 
